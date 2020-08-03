@@ -1,2 +1,5 @@
 # VeranoDAW2020
-Aplicación Web
+
+Aplicación Web de gestión de espacios turísticos no masificados.
+
+
